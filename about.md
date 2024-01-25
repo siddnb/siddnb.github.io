@@ -4,30 +4,57 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hey I'm Sidd, welcome to my website</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* body {
+            font-family: 'Arial', sans-serif;
+            text-align: left;
+            background-color: #f0f0f0;
+        } */
 
-<h2>Skills</h2>
+        .label-container {
+            background-color: white;
+            padding: 20px;
+            border: 1px solid #ddd;
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+            border-radius: 10px;
+            max-width: 300px;
+            margin: 20px auto;
+        }
+
+        .skill-category {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .skill-item {
+			
+            margin-bottom: 5px;
+        }
+    </style>
+    <title>Skills Nutritional Label</title>
+</head>
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
+	<li>Technical (See resume for more)
+		<ul>
+			<li>Python - Java - C++ - JavaScript</li>
+		</ul>
+	</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Tests)</li>
 	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
@@ -42,4 +69,40 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
+
+<body>
+
+<div class="label-container">
+    <div class="skill-item">|          Skills Information         |</div>
+    <div class="skill-item">--------------------------------------</div>
+    <div class="skill-item">| Serving Size:   1 fun guy           |</div>
+    <div class="skill-item">| ---------------------------------- |</div>
+
+    <div class="skill-category">Software Languages</div>
+    <div class="skill-item">Java           [*****]</div>
+    <div class="skill-item">Python         [**** ]</div>
+    <div class="skill-item">JavaScript     [**** ]</div>
+    <div class="skill-item">| ---------------------------------- |</div>
+
+    <div class="skill-category">DevOps Abilities</div>
+    <div class="skill-item">Docker         [**** ]</div>
+    <div class="skill-item">Kubernetes     [**** ]</div>
+    <div class="skill-item">CI/CD          [**** ]</div>
+    <div class="skill-item">| ---------------------------------- |</div>
+
+    <div class="skill-category">Problem-Solving Power</div>
+    <div class="skill-item">Debugging      [*****]</div>
+    <div class="skill-item">Algorithms     [**** ]</div>
+    <div class="skill-item">Critical Thinking [**** ]</div>
+    <div class="skill-item">| ---------------------------------- |</div>
+
+    <div class="skill-category">Team Collaboration</div>
+    <div class="skill-item">Communication  [*****]</div>
+    <div class="skill-item">Leadership     [**** ]</div>
+    <div class="skill-item">Adaptability   [**** ]</div>
+</div>
+
+</body>
+
+

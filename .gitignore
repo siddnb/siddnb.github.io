@@ -3,4 +3,6 @@ _site
 .sass-cache
 Gemfile.lock
 .bundle
+.ruby-version
+post_markdown
 vendor/
