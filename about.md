@@ -29,7 +29,7 @@ There are a few things I truly value and hold dear to my heart.
 4. A freshly baked loaf of bread
 
 I’ve lived in 5 countries, moved 7 times, met a lot of great people, picked up some hobbies, learnt a lot about myself, and I'm excited to see what else I have in store. They were all special for different reasons. Dubai is where I was born and is where my parents live, it's the only place I get to see my awesome dogs. Singapore has some amazing food and it's where I really learned to cook with my brother (I guess I also served in the army for a while). Bangladesh was a turning point for me, being around people who looked like me and spoke my language helped me become a more confident person. Bahrain showed me that the world is a big place and some of the best people are in the smallest countries. Vancouver is one of the most gorgeous places I've ever seen and has given me some of my best friends.
-Moving around this much meant that home isn't a place. It's been tiring but I feel lucky to have grown up the way I bave.
+Moving around this much meant that home isn't a place. It's been tiring but I feel lucky to have grown up the way I have.
 
 I could talk a lot more about how I used to play so many sports and now just weightlift. I could talk about how my brother is my best friend and our relationship has changed over the years. I could talk about how I think I'm one of the funniest people I know. I could write a whole book year about who I really am but I think that should be saved for another time, don't you think?
 
