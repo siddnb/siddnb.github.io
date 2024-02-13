@@ -6,3 +6,4 @@ Gemfile.lock
 .ruby-version
 post_markdown
 vendor/
+_posts/2015-02-24-markdown-extra-components.markdown

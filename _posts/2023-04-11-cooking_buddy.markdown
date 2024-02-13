@@ -2,7 +2,7 @@
 title: "Cooking Buddy"
 layout: post
 projects: true
-date: 2024-02-11 19:15
+date: 2023-04-11 12:15
 image: /assets/images/cooking_buddy_group.jpg
 headerImage: true
 tag:
