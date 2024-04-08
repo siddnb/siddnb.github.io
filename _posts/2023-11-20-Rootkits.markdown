@@ -43,7 +43,7 @@ After discussing the various features common to all rootkits, we now move on to 
 These rootkits have the same privileges as any other user-level application (Ring 3 in the protection ring model of operating system security). They instead rely on other methods of privilege escalation. Once they are able to get root access, they establish methods of retaining it (i.e. provide backdoors).
 User-level rootkits are one of the most prevalent kinds out there, because creating one requires less knowledge than their counterparts. Their relative simplicity allows malicious parties to quickly exploit new vulnerabilities before they can be patched [10].
 However, this simplicity comes with some drawbacks for the adversary. Since they only operate in user-space, the actions they can perform are limited in scope. Moreover, attacks are targeted at the process level, the program has to do this for every single process it wants to attack. 
-##### 2.1.1. Attack
+#### 2.1.1. Attack
 In Windows, often the mechanism by which user-level rootkits achieve infiltration is by hooking into dynamically linked libraries (DLL’s) that are loaded into a target process, thereby spoofing it. DLL injection takes advantage of Microsoft’s API calls to [11]:
 - Allocate memory in a legitimate process’s virtual memory (VirtualAllocEx)
 - Write the address of the malicious DLL in the process’s memory (WriteProcessMemory)

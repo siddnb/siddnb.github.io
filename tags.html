@@ -9,11 +9,18 @@ title: Tags
 
     {% if tags_list.first[0] == null %}
         {% for tag in tags_list %}
-            <a class="item" href="#{{ tag | slugify }}">{{ tag }}</a>
+            {% if tag == "markdown" or tag=="extra" or tag=="components" %}
+            {% else %}
+                <span>tag</span>
+                <a class="item" href="#{{ tag | slugify }}">{{ tag }}</a>
+            {% endif %}
         {% endfor %}
     {% else %}
         {% for tag in tags_list %}
-            <a class="item" href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+            {% if tag[0] == "markdown" or tag[0] =="extra" or tag[0] =="components" %}
+            {% else %}
+                <a class="item" href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+            {% endif %}
         {% endfor %}
     {% endif %}
 
@@ -24,12 +31,15 @@ title: Tags
 
 <section class="tag-list">
     {% for tag in site.tags  %}
-    <h2 class="title" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h2>
-
+    {% if tag[0] == "markdown" or tag[0] =="extra" or tag[0] =="components" %}
+            {% else %}
+                <h2 class="title" id="{{ tag[0] | slugify }}">#{{ tag[0] }}</h2>
+            {% endif %}
+    
     <ul class="list">
         {% assign pages_list = tag[1] %}
         {% for post in pages_list reversed %}
-            {% if post.title != null %}
+            {% if post.title != null and post.title != "Markdown Extra Components" %}
                 {% if group == null or group == post.group %}
                     <li class="item">
                         <a class="url" href="{{ site.url }}{{ post.url }}">
@@ -44,6 +54,9 @@ title: Tags
         {% assign group = nil %}
     </ul>
 
+    {% if tag[0] == "markdown" or tag[0] =="extra" or tag[0] =="components" %}
+    {% else %}
     <div class="breaker"></div>
+    {% endif %}
     {% endfor %}
 </section>

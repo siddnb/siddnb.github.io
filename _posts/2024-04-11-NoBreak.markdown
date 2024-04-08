@@ -1,0 +1,44 @@
+---
+title: "NoBreak: Dynamic Ankle Brace"
+layout: post
+projects: true
+date: 2024-04-01 12:15
+image: /assets/images/nobreak/Logo.jpg
+headerImage: true
+tag:
+- Entrepreneurship
+- Tech
+category: project
+author: sidd
+---
+Ankle sprains are one of the most common sports injuries in basketball and volleyball, however despite the high risk of spraining, many players don’t opt to wear ankle braces preemptively, even after they have had one or two sprains. 
+
+Why? Most ankle braces on the market are either too bulky (restricting performance) or just don't provide enough support. After interviewing more than 100 people, we found that serious basketball and volleyball players have the most to lose from ankle sprains and would be the most likely to wear them. Through our research we distilled their complaints down to these four requirements:
+- Only stiff when there is a risk of an ankle sprain; flexible otherwise
+- Thin enough to not require you to change your shoe size to comfortably wear them 
+- Easy to wear
+- Same protection as the rigid braces which are standard in the market
+
+Iterating over our design, we eventually reached an MVP we were happy with. A product that feels like a sock, and acts like a brace. The NoBreak Ankle Brace helps you play more and worry less.
+
+
+<div class="side-by-side">
+    <div class="toleft">
+        <p>There is plenty of research which shows that ankle sprains are likely to occur when 2 different criteria are satisfied. The first is that the ankle is moving at speeds higher than 300 deg/s and inverts more than 40 deg. So our ankle brace essentially feels like a sock at normal speeds, but stiffens up when your ankle is rolling (i.e. rotating greater than 300 deg/s). How does it do that?</p>
+        <p>The core technology behind our ankle brace is the shear damper and the liquid inside it (illustrated on the right). When you were younger you may have played with a non-newtonian fluid called oobleck (cornstarch mixed with water). When you try to handle it with care it’s like a liquid, but if you hit it hard it becomes rigid! That sounds a lot like the behaviour we’re after right? We created a piston filled with a non-newtonian fluid and by attaching that to our brace we were able to get the behaviour we were looking for!</p>
+        <p>Below you can see a side-by-side comparison of how the brace reacts when subject to varying forces.</p>
+    </div>
+    <div class="toright">
+        <img class="image" src="/assets/images/nobreak/CAD.jpg" alt="Alt Text">
+        <figcaption class="caption">Ankle brace CAD highlighting the shear damper.</figcaption>
+    </div>
+</div>
+
+<div>
+    <img class="image" style = "max-height: 50vh; margin-left: auto;margin-right: auto;display: block;" src="/assets/images/nobreak/side_by_side.jpg" alt="Alt Text">
+    <figcaption class="caption">Demonstrating the differing behaviors for the brace under lower and higher forces.</figcaption>
+</div>
+
+---
+
+
