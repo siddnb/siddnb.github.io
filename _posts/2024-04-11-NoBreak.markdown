@@ -11,19 +11,28 @@ tag:
 category: project
 author: sidd
 ---
-Ankle sprains are one of the most common sports injuries in basketball and volleyball, however despite the high risk of spraining, many players don’t opt to wear ankle braces preemptively, even after they have had one or two sprains. 
+The NoBreak Ankle Brace stiffens preferentially which means it only when you need it to. We tried to create a brace which helps you play more and worry less. Here's a taste of how my first foray into the world of entrepreneurship went.
+8 months ago 4 of my friends and I set out to solve a problem, but it turns out creating a novel product is _very, very, hard_...
+> What if we made a device which could act like a personal trainer! Yes yes, they're so expensive, people would love it. Oh, it already exists.
+> 
+> So, lots of people have injuries _looks around at basically every one in the group_ but none of us have time to do physio **every** day _again we look at eachother knowingly_. Let's make a feet slider which can sit at your desk and help with physio! Yes, this is the one. Oh... after talking to 20 people no one's really interest in it.
+>> _Many,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; many,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; many ideas later_ 
+> 
+> So many of my basketball playing friends have ankle issues but they don't wear ankle braces. Maybe there's something there? 
 
-Why? Most ankle braces on the market are either too bulky (restricting performance) or just don't provide enough support. After interviewing more than 100 people, we found that serious basketball and volleyball players have the most to lose from ankle sprains and would be the most likely to wear them. Through our research we distilled their complaints down to these four requirements:
+We spent a long time performing customer validation, but by the end of it we had a pretty good idea of the problem. Ankle sprains are one of the most common sports injuries in basketball and volleyball, however despite the high risk of spraining, many players don’t opt to wear ankle braces preemptively, even after they have had one or two sprains. 
+
+_Why?_ Most ankle braces on the market are either too bulky (restricting performance) or just don't provide enough support. We found that serious basketball and volleyball players have the most to lose from ankle sprains and would be the most likely to wear them. Through our research we distilled their complaints down to these four requirements:
 - Only stiff when there is a risk of an ankle sprain; flexible otherwise
 - Thin enough to not require you to change your shoe size to comfortably wear them 
 - Easy to wear
 - Same protection as the rigid braces which are standard in the market
 
-Iterating over our design, we eventually reached an MVP we were happy with. A product that feels like a sock, and acts like a brace. The NoBreak Ankle Brace helps you play more and worry less.
-
+Iterating over our design, we eventually reached an MVP we were happy with. A product that feels like a sock, and acts like a brace. 
 
 <div class="side-by-side">
     <div class="toleft">
+        <h2>How Does it Work?</h2>
         <p>There is plenty of research which shows that ankle sprains are likely to occur when 2 different criteria are satisfied. The first is that the ankle is moving at speeds higher than 300 deg/s and inverts more than 40 deg. So our ankle brace essentially feels like a sock at normal speeds, but stiffens up when your ankle is rolling (i.e. rotating greater than 300 deg/s). How does it do that?</p>
         <p>The core technology behind our ankle brace is the shear damper and the liquid inside it (illustrated on the right). When you were younger you may have played with a non-newtonian fluid called oobleck (cornstarch mixed with water). When you try to handle it with care it’s like a liquid, but if you hit it hard it becomes rigid! That sounds a lot like the behaviour we’re after right? We created a piston filled with a non-newtonian fluid and by attaching that to our brace we were able to get the behaviour we were looking for!</p>
         <p>Below you can see a side-by-side comparison of how the brace reacts when subject to varying forces.</p>
