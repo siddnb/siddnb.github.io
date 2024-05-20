@@ -2,7 +2,7 @@
 title: "This Week in Security #3"
 layout: post
 headerImage: true
-image: /assets/images/cyber_blog/week3/blenz.jpg
+image: /assets/images/cyber_blog/week3/blenz.JPG
 date: 2024-05-19 16:00
 tag:
 - Tech
