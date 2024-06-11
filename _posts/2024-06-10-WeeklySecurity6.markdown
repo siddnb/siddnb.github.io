@@ -29,6 +29,8 @@ While some workarounds have shown it’s possible to breach the database contain
 
 As more data is stored and used for increasingly powerful features, companies need to be careful to not rush to market with half-baked security measures and reviews.
 
+_Microsoft is in the process of [making changes](https://www.computerworld.com/article/2140187/microsoft-makes-windows-recall-opt-in-after-privacy-security-backlash.html) to the feature and its rollout in response to widespread criticism._
+
 <figure>
         <img class="image" src="/assets/images/cyber_blog/week6/car.JPG" alt="Red interior of a car">
         <figcaption class="caption">A cool car</figcaption>
