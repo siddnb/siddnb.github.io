@@ -4,7 +4,7 @@ hidden: true
 layout: post
 headerImage: true
 image: /assets/images/cyber_blog/weekBLANK/BLANK.JPG
-date: 2024-05-27 16:00
+date: 2024-BLANK-BLANK 16:00
 tag:
 - Tech
 - Cybersecurity

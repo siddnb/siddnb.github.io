@@ -1,6 +1,5 @@
 ---
 title: "This Week in Security #6"
-hidden: true
 layout: post
 headerImage: true
 image: /assets/images/cyber_blog/week6/books.JPG
