@@ -38,7 +38,7 @@ Kaspersky Lab is a leading cybersecurity and anti-virus software provider headqu
 - The ban has been in the works for many years beginning with bans from federal use back in 2017
 - Unsurprisingly, Kaspersky has been critical and said this ban ignores their practices of transparency and will primarily benefit cybercrime as a whole
 
-It will be vital that existing US based Kaspersky clients find and implement an alternative soon.
+It will be vital that existing US based Kaspersky clients find and implement an alternative soon. Patches to Kaspersky products will also be banned at the end of September which means many systems could develop vulnerabilities over time as they become less current.
 
 <figure>
         <img class="image" src="/assets/images/cyber_blog/week8/planes.JPG" alt="Waiting to board">
