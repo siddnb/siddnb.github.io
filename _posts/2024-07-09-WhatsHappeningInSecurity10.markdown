@@ -41,7 +41,7 @@ A couple of weeks ago I wrote about the US’ ban on products sold by Kaspersky 
 
 In 2024 the US has banned two behemoths of their fields, foreign based TikTok and Kaspersky (Chinese and Russian respectively), for fairly nebulous reasons. Both companies rejected the premises of their bans complaining that they are based on issues of geopolitics rather than concrete issues of misuse. TikTok has even gone as far as to sue the US government for violating the First Amendment in banning their app.
 
-While neither of these bans gone into effect yet, the US government’s willingness to ban foreign tech companies without “damning evidence” doesn’t give much reason for confidence in the way they may handle such situations in the future. Stanford policy researcher, Riana Pfefferkorn believes the government should “set basic privacy and security requirements for *all* software, not just foreign-owned apps”.
+Although neither of these bans has gone into effect yet, the US government’s readiness to ban foreign tech companies without "damning evidence" raises concerns about their future handling of similar situations. Stanford policy researcher, Riana Pfefferkorn believes the government should “set basic privacy and security requirements for _all_ software, not just foreign-owned apps”.
 
 I’ll be curious to see how the TikTok potential ban pans out, and how far reaching the fallout of it ends up being.
 
