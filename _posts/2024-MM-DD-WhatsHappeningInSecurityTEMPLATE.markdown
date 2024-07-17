@@ -1,5 +1,5 @@
 ---
-title: "This Week in Security #BLANK"
+title: "What's Happening In Security #BLANK"
 hidden: true
 layout: post
 headerImage: true
