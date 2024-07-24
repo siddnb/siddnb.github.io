@@ -50,7 +50,7 @@ As I’ve begun my journey in the cybersecurity industry I have come across cert
 
 **The Incident Response Process in 6 steps:**
 1. **Prepare:** The organization needs to define roles and responsibilities so everyone is ready in case of an incident
-2. **Identification:** Detecting threats is the first step towards remediation. There are many tools such as security information management (SIM) solutions.
+2. **Identification:** Detecting threats is the first step towards remediation. There are many tools such as security information and event management (SIEM) solutions.
 3. **Containment:** Isolate the threat and stop it from spreading. In the short term this means quarantining the malicious processes or even the infected machine.
 4. **Eradication:** After assessing the attack surface (we learnt about attack surfaces in the [8th edition](https://siddnb.github.io/WeeklySecurity8/)) find the root cause. Harden the system as needed which could include patching bugs or removing backdoors.
 5. **Recovery:** Restore your systems to a desired state and resume normal operations. To achieve this you may restore from back ups and reconfigure compromised accounts. At this point it is important to test your systems to ensure everything is as it should be.
