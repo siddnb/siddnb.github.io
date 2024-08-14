@@ -1,9 +1,9 @@
 ---
-title: "What's Happening In Security #BLANK"
+title: "What's Happening In Security #WEEK"
 hidden: true
 layout: post
 headerImage: true
-image: /assets/images/cyber_blog/weekBLANK/BLANK.JPG
+image: /assets/images/cyber_blog/weekWEEK/BLANK.JPG
 date: 2024-BLANK-BLANK 16:00
 tag:
 - Tech
